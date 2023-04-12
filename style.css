@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+body{
+    /* COMO O FUNDO DO MENU É BRANCO, PREFERI DEIXAR O BODY CINZA PARA MELHOR VISUALIZAÇÃO*/
+    background-color: #999999;
+    margin: 0;
+}
+
+.container{
+    width: 1920px;
+    height: 120px;
+    background-color: #ffffff;
+    display: flex;
+}
+
+img{
+    margin-left: 156px;
+    margin-top: 34px;
+    width: 96px;
+    height: 60px;
+}
+
+ul{
+    display: flex;
+    margin-left: 550px;
+    margin-top:52px;
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    font-size: 15px;
+    color: #1e1e1e;
+    font-weight: 500;
+    font-family: "Montserrat", sans-serif;
+    margin-left: 80px;
+}
+
